@@ -1,0 +1,5 @@
+<!-- css for syntax highlighting -->
+<link rel='stylesheet' href='{{ \"css/highlight.css\" | relURL }}' title='hl'>
+{{ range .Params.html_dependencies }}
+  {{ . | safeHTML }}
+{{ end }}

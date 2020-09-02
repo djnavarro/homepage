@@ -1,0 +1,19 @@
+---
+output: hugodown::md_document
+title: "résumé"
+type: "page"
+summary: "Résumé for Danielle Navarro"
+author: ""
+tags: []
+date: 2020-09-02
+rmd_hash: c97947d82421d353
+
+---
+
+Résumé
+======
+
+I suppose it would be a good idea to write one of these things? I feel mildly confident that I have indeed accomplished things and have a few useful skills, but I seem to have forgotten to list them. A grave omission for anyone with ambitions to remain gainfully employed, I expect.
+
+Edit: Okay *fine*. Here is my scandalously short two-page [academic résumé](./danielle-navarro-academic-resume.pdf).
+

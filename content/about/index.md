@@ -1,0 +1,29 @@
+---
+output: hugodown::md_document
+title: "about"
+type: "page"
+summary: "Caladown: A Hugo theme and R package by Danielle Navarro"
+author: ""
+tags: []
+date: 2020-09-02
+rmd_hash: 7dca4f6ea224c9a6
+
+---
+
+About the theme
+===============
+
+The calade theme started its life as a fork of Yihue Xie's Xmin theme, which I had started to tinker with because I wanted to better understand the internal workings of Hugo and blogdown. One of the things I really liked about Xmin is its simplicity. There are very few moving parts to the theme which makes it much less intimidating for novice users than the academic theme, which is a wonderful theme but also a rather complicated one. After deciding that I didn't want or need all that complexity for my own website, I worked on extending the Xmin theme to have "just enough" functionality for my purposes. The visual style draws some elements from Xmin, others from academic, and others from the Tufte R markdown theme. Mostly though it was designed to suit my own aesthetic sensibilities.
+
+About the name
+==============
+
+After initially choosing a less-than-ideal name for the theme, I eventually settled on naming the theme *calade*, a French word referring to "harmonious, decorative and useful arrangement of medium-sized pebbles, fixed to the ground" and suggested to me by John Ormerod. It appeals to me as a metaphor for the way I like to design websites. Each page is a small object held in place by an overall structure, organised in a fashion that serves a specific, useful purpose. In addition to being functional, a good site should be aesthetically pleasing and harmonious. Also the banner images on this site kind of look like cobblestones so it seemed appropriate.
+
+The name of the *caladown* package is (obviously) in part a reference to the name of the *calade* theme, using the "-down" suffix in reference to markdown, blogdown, hugodown etc. It also has some meaning of its own. Olivia Guest pointed out that "cala" ("Καλά") means "good" in Greek, and there is something appealing about "gooddown" as a name. Matt Craddock alerted to me that in Spanish "cala" means "cove", which I really ought to have known for myself but I've forgotten almost all my Spanish. Sigh. In any case, it seems a particularly appropriate reference for the package: a sheltered bay is a safe place to moor a ship, and the primary function of caladown is to simplify the installation process.
+
+About the author
+================
+
+[Danielle Navarro](https://djnavarro.net) is a computational cognitive scientist and Associate Professor at the University of New South Wales. Her research focuses on human reasoning and statistical methods in the behavioural sciences. On occasions she has been known to masquerade as a part-time [statistician](https://learningstatisticswithr.com), [data scientist](https://robust-tools.djnavarro.net) and an unskilled [software developer](https://github.com/djnavarro). She is also a [devoted R-Lady](https://rladiessydney.org), an [aspiring generative artist](https://art.djnavarro.net), and at times a [general purpose nuisance](https://twitter.com/djnavarro). She is prone to describing herself in the third person in biographies, but is willing to admit that it's super weird.
+

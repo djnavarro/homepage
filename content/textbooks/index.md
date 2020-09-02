@@ -1,0 +1,25 @@
+---
+output: hugodown::md_document
+title: "textbooks"
+type: "page"
+summary: ""
+author: ""
+tags: []
+date: 2020-09-02
+rmd_hash: 7fa42641e376af78
+
+---
+
+Textbooks
+=========
+
+From 2011 to 2015 I taught an introductory statistics class at the University of Adelaide using the R statistical computing language, and wrote my own lecture notes, pitched at undergraduate psychology students. It got a little out of hand, turning into a 600 page book, which I've made freely available under a Creative Commons licence at <a href="https://learningstatisticswithr.com" class="uri">https://learningstatisticswithr.com</a>
+
+The book covers the basics of psychological research methods, R programming, data wrangling, descriptive statistics, R graphics, orthodox and Bayesian inference, t-tests, chi-square tests, factorial ANOVA and multiple regression in a friendly (and I hope helpful) way.
+
+To my surprise, the book has been rather popular, and has been adapted in several ways. David Foxcroft adapted it to create a [Jamovi version](https://doi.org/10.24384/hgc3-7p15), and Tom Faulkenberry adapted *that* to create a [JASP version](https://learnstatswithjasp.com/). Jean-Marc Meunier was kind enough to make [French translation](https://hal.archives-ouvertes.fr/hal-02335912/document) of the Jamovi book, which is so cool, and I've heard rumours that there are [Japanese](https://bookdown.org/sbtseiji/lswjamoviJ/) and Spanish translations in the works elsewhere. Because the creative commons allows more radical adaptations, there's a really nice book on [Answering Questions with Data](https://crumplab.github.io/statistics/) by Matt Crump has uses parts of the material. A modernised [tidyverse-focused version](https://tidylsr.djnavarro.net) of the book is also in the works.
+
+As yet, no-one has created the *Learning Statistics with an Abacus* adaptation I have dreamt of all these years.
+
+<a href="https://learningstatisticswithr.com"><img src="/textbooks/lsr.png" height=300px></a> <a href="https://doi.org/10.24384/hgc3-7p15"><img src="/textbooks/jamovi.png" height=300px></a> <a href="https://learnstatswithjasp.com/"><img src="/textbooks/jasp.png" height=300px></a> <a href="https://hal.archives-ouvertes.fr/hal-02335912/document"><img src="/textbooks/jamovi_french.png" height=300px></a> <a href="https://bookdown.org/sbtseiji/lswjamoviJ"><img src="/textbooks/jamovi_japanese.png" height=300px></a> <a href="https://crumplab.github.io/statistics/"><img src="/textbooks/answering_questions.png" height=300px></a>
+

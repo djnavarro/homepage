@@ -1,0 +1,43 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ./svm-latex-cv.tex
+geometry: margin=.75in
+
+author: "Danielle Navarro"
+title: "Professional Résumé"
+fontawesome: yes
+email: d.navarro@unsw.edu.au
+github: djnavarro
+twitter: djnavarro
+phone: "0421 488 402"
+web: djnavarro.net
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+## Skills
+
+- R programming and package development
+- Functional programming with tidyverse
+- Data visualisation (ggplot2 + ecosystem)
+- R markdown/bookdown/blogdown/LaTeX
+- Like, I'm a really good writer and shit
+- Bayesian data analysis with R/JAGS/Stan
+- Web development with HTML/CSS/JavaScript
+- Web applications with Google App Engine
+- Version control with git/GitHub
+- Not totally useless at Travis CI
+- Experiment and survey design
+- Statistical modelling of behavioural data
+- Expertise in studying human behaviour
+- Proficient in Matlab/Python
+- Proficient with Hugo CMS
+- Fuck I'm useless, I'm going to bed
+
