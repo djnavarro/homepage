@@ -88,9 +88,9 @@ theme = "calade"
 [params]
     siteHeader = "header/banner.png"
     siteProfile = "header/profile.png"
-    description = "A website of one's own"
-    footer = "A footer of one's own"
-    twitterImage = "https://djnavarro.github.io/hugo-calade/header/caladown.png"
+    description = "A very professional website"
+    footer = "~ djnavarro.net ~"
+    twitterImage = "https://djnavarro.net/header/profile.png"
     colorPage = "#333333"    # background colour
     colorText = "#dddddd"    # main text colour
     colorFade = "#888888"    # faded text colour
