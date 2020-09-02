@@ -33,9 +33,9 @@ My Ph.D. was awarded in 2003 by the University of Adelaide, where I was appointe
 
 My research interests lie within the field of computational cognitive science - I study the mathematical and computational basis for human intelligence, with a view to connecting this to animal and machine intelligence. With this in mind, my work covers a wide range of topics in psychology. I have made major contributions to understanding basic information processing (associative learning, similarity, reaction time), higher order cognition (categorisation, reasoning, decision making) and the social nature of human intelligence (iterated learning, language evolution, cultural evolution). My interests include topics in research methodology (statistics education, robust inference, model selection) where I have made substantial contributions.
 
-I have published extensively in the top theoretical and experimental journals in psychology, including 5 papers in *Psychological Review* -- generally considered the top theoretical journal in the field -- with numerous papers published in the top journals in cognitive and experimental psychology (e.g., *Journal of Experimental Psychology: General*, *Cognitive Psychology*, *Cognitive Science*; see [djnavarro.net/publications](https://djnavarro.net/publications/)). All of these journals are Q1 Ranked according to the Science Journal Reports metric (SJR). 
+I have published extensively in the top journals in psychology, including 5 papers in *Psychological Review* -- generally considered the top theoretical journal in the field -- with numerous papers published in the top journals in cognitive and experimental psychology (e.g., *Journal of Experimental Psychology: General*, *Cognitive Psychology*, *Cognitive Science*; see [djnavarro.net/papers](https://djnavarro.net/papers/)), all Q1 Ranked according to Science Journal Reports (SJR). 
 
-Bibliometric summary: I have published over 150 peer reviewed journal articles, scholarly book chapters and conference proceedings papers. According to Google Scholar ([djnavarro.link/scholar](https://djnavarro.link/scholar)), my h-index is 29 and my work has been cited 3328 times, with 563 citations in 2019. My "top 3" recent papers:
+Bibliometric summary: I have published over 150 peer reviewed journal articles, scholarly book chapters and conference proceedings papers. According to Google Scholar ([scholar.djnavarro.net](https://scholar.djnavarro,net)), my h-index is 32 and my work has been cited 3800 times, with 563 citations in 2019. My "top 3" recent papers:
 
   - Navarro (2019). Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection. *Computational Brain & Behavior, 2*, 28-34 ([psyarxiv.com/39q8y](https://psyarxiv.com/39q8y/))
   - De Deyne, Navarro, Perfors, Brysbaert & Storms (2019). The Small World of Words: English word association norms for over 12,000 cue words. *Behavior Research Methods, 51*, 987-1006 ([psyarxiv.com/mb93p](https://psyarxiv.com/mb93p/))
@@ -46,6 +46,7 @@ Bibliometric summary: I have published over 150 peer reviewed journal articles, 
 
 My university teaching has focused on teaching statistics and cognitive science at an undergraduate and postgraduate level; across my teaching career the median "broad approval rating" in my student evaluations is 97%. My teaching materials are available at [djnavarro.net/teaching](https://djnavarro.net/teaching), including the following university courses:
 
+- *Robust Tools*, a 4th year data science class in 9 two-hour workshops
 - *Minds & Machines*, a 4th year R programming & cognitive science class in 9 two-hour workshops
 - *R for Psychological Science*, a 3rd year R programming class in 6 two-hour workshops
 - *Perception & Cognition*, an 2nd year introduction to cognitive psychology in 6 one-hour lectures
@@ -58,7 +59,7 @@ Also listed are the following resources:
 - *Data Visualisation*, materials for a half-day workshop teaching ggplot2 and gganimate
 - *Complex Human Data Summer School*, a 6-day summer school on modern research tools
 
-I do not typically take on many Ph.D. students or postdoctoral researchers. I currently supervise 4 postdoctoral researchers and 1 Ph.D. student. I previously have supervised 5 postdoctoral researchers, 11 PhD students and 21 honours/masters students. Most of my PhD students tend to go on take postdoctoral research positions (7/11), with 3 taking jobs in industry and1 undertaking further study. Postdoctoral researchers in my lab have taken academic posts (2/5), research fellowships (2/5) or jobs in industry (1/5).
+I currently supervise 2 postdoctoral researchers and 1 Ph.D. student. I previously have supervised 6 postdoctoral researchers, 11 PhD students and 21 honours/masters students. Most of my PhD students tend to go on take postdoctoral research positions (7/11), with 3 taking jobs in industry and1 undertaking further study. Postdoctoral researchers in my lab have taken academic posts (3/6), research fellowships (3/6) or jobs in industry (1/6).
 
 
 # Research Funding 
@@ -104,7 +105,7 @@ Researchers in my group have also won awards for papers/presentations that I coa
 
 # Outreach & Service
 
-I have held Associate Editor positions at three prestigious journals:
+I am currently on the Board of Reviewing Editors at *Science* (2020-present). I have previously held Associate Editor positions at three other prestigious journals:
 
 - *Open Mind: Discoveries in Cognitive Science* (2016-2019)
 - *Behavior Research Methods* (2014-2016)
@@ -116,6 +117,6 @@ I have organised several small workshops and three national level conferences:
 - *Australasian Experimental Psychology Conference*. April 2013.
 - *Australasian Mathematical Psychology Conference*. February 2012.
 
-At the University of Adelaide I held substantial administrative roles (e.g., chair of school research committee). Currently my administrative profile at UNSW is modest, with roles organising school colloquium series, serving on the school equity committee and active contributions to the UNSW LGBTQI Ally network.
+In my previous position I held substantial administrative roles (e.g., chair of school research committee). My administrative profile at UNSW is modest, though I have taken roles organising school colloquia, serving on the school equity committee and contributing to the UNSW LGBTQI Ally network.
 
 In 2018 I co-founded R-Ladies Sydney, a group that promotes gender diversity within the R programming community, which now has over 700 members. I have been active in the Australian rOpenSci organisation that develops free and open source software for Australian science applications. 
