@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on A calade website</title>
+    <title>Home on Danielle Navarro</title>
     <link>/</link>
-    <description>Recent content in Home on A calade website</description>
+    <description>Recent content in Home on Danielle Navarro</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>about</title>
-      <link>/about/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Caladown: A Hugo theme and R package by Danielle Navarro</description>
-    </item>
     
     <item>
       <title>Papers</title>
@@ -38,7 +29,7 @@
     </item>
     
     <item>
-      <title>résumé</title>
+      <title>Résumé</title>
       <link>/resume/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
@@ -57,7 +48,7 @@ The research toolkit in psychological science has changed a lot in the last deca
     </item>
     
     <item>
-      <title>textbooks</title>
+      <title>Textbooks</title>
       <link>/textbooks/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
