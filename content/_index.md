@@ -2,14 +2,27 @@
 output: hugodown::md_document
 title: Home
 summary: "Danielle Navarro"
-rmd_hash: 98d376ea09608ea1
+rmd_hash: 2cc1a0ee7232e795
 
 ---
 
 Danielle Navarro
 ================
 
-<a href="mailto:d.navarro@unsw.edu.au"><i class="fas fa-paper-plane"></i></a> <a href="https://twitter.com/djnavarro"><i class="fa fa-twitter"></i></a> <a href="https://github.com/djnavarro"><i class="fab fa-github"></i></a> <a href="https://orcid.djnavarro.net"><i class="fab fa-orcid"></i></a> <a href="https://scholar.djnavarro.net"><i class="fas fa-graduation-cap"></i></a> <a href="https://www.linkedin.com/in/djnavarro/"><i class="fab fa-linkedin"></i></a> <a href="https://www.youtube.com/DanielleNavarro77"><i class="fab fa-youtube"></i></a> <a href="https://education.rstudio.com/trainers/people/navarro+danielle/"><i class="fab fa-r-project"></i></a>
-
 Danielle Navarro is a computational cognitive scientist and Associate Professor at the University of New South Wales. Her research focuses on human concept learning and reasoning, and on statistical methods in the behavioural sciences. Other topics she has researched include decision making, language and cultural evolution, cognitive development, and forensic psychology. In her work as a [computational cognitive scientist](https://scholar.djnavarro.net), she uses a mix of experimental methods and computational modelling techniques to explore how the human mind works. On occasions she has been known to masquerade as a part-time [statistician](https://learningstatisticswithr.com), [data scientist](https://robust-tools.djnavarro.net) and an unskilled [software developer](https://github.com/djnavarro). She is also a [devoted R-Lady](https://rladiessydney.org), an [aspiring generative artist](https://art.djnavarro.net), and at times a [general purpose nuisance](https://twitter.com/djnavarro). She is prone to describing herself in the third person in biographies, but is willing to admit that it's super weird.
+
+Contact information:
+
+-   <a href="mailto:d.navarro@unsw.edu.au"><i class="fas fa-paper-plane"></i></a>   email: <a href="mailto:d.navarro@unsw.edu.au" class="email">d.navarro@unsw.edu.au</a>
+-   <a href="https://twitter.com/djnavarro"><i class="fa fa-twitter"></i></a>   twitter: <a href="https://twitter.com/djnavarro">djnavarro</a>
+-   <a href="https://github.com/djnavarro"><i class="fab fa-github"></i></a>   github: <a href="https://github.com/djnavarro">djnavarro</a>
+-   <a href="https://www.instagram.com/daniellenavarro77"><i class="fab fa-instagram"></i></a>   instagram: <a href="https://www.instagram.com/daniellenavarro77">daniellenavarro77</a>
+-   <a href="https://www.youtube.com/DanielleNavarro77"><i class="fab fa-youtube"></i></a>   youtube: <a href="https://www.youtube.com/DanielleNavarro77">daniellenavarro77</a>
+-   <a href="https://www.linkedin.com/in/djnavarro/"><i class="fab fa-linkedin"></i></a>   linkedin: <a href="https://www.linkedin.com/in/djnavarro/">djnavarro</a>
+
+Miscellaneous links:
+
+-   <a href="https://orcid.djnavarro.net"><i class="fab fa-orcid"></i></a>   orcid: <a href="https://orcid.djnavarro.net">0000-0001-7648-6578</i>
+-   <a href="https://scholar.djnavarro.net"><i class="fas fa-graduation-cap"></i></a>   google scholar: <a href="https://scholar.djnavarro.net">QPH\_lRIAAAAJ</a>
+-   <a href="https://education.rstudio.com/trainers/people/navarro+danielle/"><i class="fab fa-r-project"></i></a>   rstudio certification
 
