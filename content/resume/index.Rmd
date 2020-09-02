@@ -1,6 +1,6 @@
 ---
 output: hugodown::md_document
-title: "résumé"
+title: "Résumé"
 type: "page"
 summary: "Résumé for Danielle Navarro"
 author: ""

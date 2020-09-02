@@ -21,7 +21,7 @@ publishDir = "docs"
 
 # These settings specify the title for your site, and the name of
 # the Hugo theme that it uses.
-title = "A calade website"
+title = "Danielle Navarro"
 theme = "calade"
 
 # What format should the permalinks take?

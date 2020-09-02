@@ -1,12 +1,12 @@
 ---
 output: hugodown::md_document
-title: "textbooks"
+title: "Textbooks"
 type: "page"
 summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 7fa42641e376af78
+rmd_hash: 9e72e40a2285d9ab
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 output: hugodown::md_document
-title: "résumé"
+title: "Résumé"
 type: "page"
 summary: "Résumé for Danielle Navarro"
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: c97947d82421d353
+rmd_hash: a1de381342911b25
 
 ---
 

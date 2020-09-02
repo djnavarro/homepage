@@ -1,6 +1,6 @@
 ---
 output: hugodown::md_document
-title: "textbooks"
+title: "Textbooks"
 type: "page"
 summary: ""
 author: ""
