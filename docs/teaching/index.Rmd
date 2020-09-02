@@ -22,7 +22,7 @@ The research toolkit in psychological science has changed a lot in the last deca
 
 <a href="https://chdsummerschool.com/"><img width = "100%" src="/teaching/teaching-chdss.png" alt=""></a>
 
-Researchers from psychology and other disciplines are increasingly relying on computational analyses of large data sets to draw conclusions about human behaviour. This kind of research requires skills that are not often taught as part of the psychology curriculum. In collaboration with colleagues at the University of Melbourne I have been running a summer school to help people collect and analyse complex human data, from 2018-2019. https://chdsummerschool.com/
+Researchers from psychology and other disciplines are increasingly relying on computational analyses of large data sets to draw conclusions about human behaviour. This kind of research requires skills that are not often taught as part of the psychology curriculum. In collaboration with colleagues at the University of Melbourne I have been running a summer school to help people collect and analyse complex human data, from 2018-2019. (Due to COVID-19 the school will not run in 2020) https://chdsummerschool.com/
 
 
 ## Data Visualisation
