@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on A calade website</title>
+    <link>/</link>
+    <description>Recent content in Home on A calade website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Caladown: A Hugo theme and R package by Danielle Navarro</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>/papers/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description>Academic Publications One of the most venerable traditions of academic websites is to include a page drily listing the scholarly books and journal publications for which one is to be held responsible. One presumes that this tiresome practice establishes one&amp;rsquo;s credentials to one&amp;rsquo;s peers, who will dutifully stare at the wall of text and be impressed by the overwhelming boredom it inspires. To that end, on this page you can find links to selected books and papers, most of which are freely available on PsyArXiv.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Projects Research topics Being employed as an academic, some proportion of my projects are research related. My research projects can be grouped into two broad categories. First, as a cognitive scientist, I am interested in how people acquire new knowledge and reason about the world; and as a mathematical psychologist my approach to studying this is to employ a mix of computational modelling and experimental work. The second broad topic I write about is methodological.</description>
+    </item>
+    
+    <item>
+      <title>résumé</title>
+      <link>/resume/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Résumé for Danielle Navarro</description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Teaching Materials Data Science with R: A Robust Toolkit for Psychological Research 
+The research toolkit in psychological science has changed a lot in the last decade. Across many areas there is a heightened emphasis on transparency, open access, and a preference for the use of freely available tools. These skills are rarely taught during undergraduate psychology classes, and because research methods classes tend to be statistics heavy, they&amp;rsquo;re rarely a part of research methodology classes either.</description>
+    </item>
+    
+    <item>
+      <title>textbooks</title>
+      <link>/textbooks/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/textbooks/</guid>
+      <description>Textbooks From 2011 to 2015 I taught an introductory statistics class at the University of Adelaide using the R statistical computing language, and wrote my own lecture notes, pitched at undergraduate psychology students. It got a little out of hand, turning into a 600 page book, which I&amp;rsquo;ve made freely available under a Creative Commons licence at https://learningstatisticswithr.com
+The book covers the basics of psychological research methods, R programming, data wrangling, descriptive statistics, R graphics, orthodox and Bayesian inference, t-tests, chi-square tests, factorial ANOVA and multiple regression in a friendly (and I hope helpful) way.</description>
+    </item>
+    
+  </channel>
+</rss>
