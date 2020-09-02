@@ -22,7 +22,7 @@ The research toolkit in psychological science has changed a lot in the last deca
 
 <a href="https://chdsummerschool.com/"><img width = "100%" src="/teaching/teaching-chdss.png" alt=""></a>
 
-Researchers from psychology and other disciplines are increasingly relying on computational analyses of large data sets to draw conclusions about human behaviour. This kind of research requires skills that are not often taught as part of the psychology curriculum. In collaboration with colleagues at the University of Melbourne I have been running a summer school to help people collect and analyse complex human data, from 2018-2019. https://chdsummerschool.com/
+Researchers from psychology and other disciplines are increasingly relying on computational analyses of large data sets to draw conclusions about human behaviour. This kind of research requires skills that are not often taught as part of the psychology curriculum. In collaboration with colleagues at the University of Melbourne I have been running a summer school to help people collect and analyse complex human data, from 2018-2019. (Due to COVID-19 the school will not run in 2020) https://chdsummerschool.com/
 
 
 ## Data Visualisation
@@ -53,7 +53,7 @@ In 2018 I gave this lecture series as part of the Cognitive Science third year s
 
 <a href="https://psyr.djnavarro.net"><img width = "100%" src="/teaching/teaching-psyr.png" alt=""></a>
 
-Research methods in psychology have traditionally focused on study design and statistical analysis. The R statistical programming language is well-suited to these problems, but it's also very handy for solving many other problems facing behavioural scientists. These resources were developed to support the programming component to the UNSW 3rd year psychology research internship (PSYC3361). I have been teaching this class 2018-2020. The resources are available at https://psyr.djnavarro.net 
+Research methods in psychology have traditionally focused on study design and statistical analysis. The R statistical programming language is well-suited to these problems, but it's also very handy for solving many other problems facing behavioural scientists. These resources were developed to support the programming component to the UNSW 3rd year psychology research internship (PSYC3361). I have taught this class since 2018. Since 2020 I have merged the content with the robust tools material listed above, but the 2018-2019 resources are available at https://psyr.djnavarro.net
 
 ## Perception and Cognition
 
@@ -65,5 +65,5 @@ This is a lecture series I gave as part of the PSYC2071 (Perception and Cognitio
 
 <a href="https://compcogsci-3016.djnavarro.net"><img width = "100%" src="/teaching/teaching-ccs.png" alt=""></a>
 
-From 2010-2014, I taught an introduction to computational cognitive science for undergraduate computer science students at the University of Adelaide, in collaboration with Andy Perfors. The course materials are archived at https://compcogsci-3016.djnavarro.net
+From 2010-2014, I jointly taught an introduction to computational cognitive science for undergraduate computer science students at the University of Adelaide. The course materials are archived at https://compcogsci-3016.djnavarro.net
 

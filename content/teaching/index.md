@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 77b0e271f85ab1b7
+rmd_hash: 07fe42c8b716fa25
 
 ---
 
@@ -25,7 +25,7 @@ Complex Human Data Summer School
 
 <a href="https://chdsummerschool.com/"><img width = "100%" src="/teaching/teaching-chdss.png" alt=""></a>
 
-Researchers from psychology and other disciplines are increasingly relying on computational analyses of large data sets to draw conclusions about human behaviour. This kind of research requires skills that are not often taught as part of the psychology curriculum. In collaboration with colleagues at the University of Melbourne I have been running a summer school to help people collect and analyse complex human data, from 2018-2019. <a href="https://chdsummerschool.com/" class="uri">https://chdsummerschool.com/</a>
+Researchers from psychology and other disciplines are increasingly relying on computational analyses of large data sets to draw conclusions about human behaviour. This kind of research requires skills that are not often taught as part of the psychology curriculum. In collaboration with colleagues at the University of Melbourne I have been running a summer school to help people collect and analyse complex human data, from 2018-2019. (Due to COVID-19 the school will not run in 2020) <a href="https://chdsummerschool.com/" class="uri">https://chdsummerschool.com/</a>
 
 Data Visualisation
 ------------------
@@ -60,7 +60,7 @@ R for Psychological Science
 
 <a href="https://psyr.djnavarro.net"><img width = "100%" src="/teaching/teaching-psyr.png" alt=""></a>
 
-Research methods in psychology have traditionally focused on study design and statistical analysis. The R statistical programming language is well-suited to these problems, but it's also very handy for solving many other problems facing behavioural scientists. These resources were developed to support the programming component to the UNSW 3rd year psychology research internship (PSYC3361). I have been teaching this class 2018-2020. The resources are available at <a href="https://psyr.djnavarro.net" class="uri">https://psyr.djnavarro.net</a>
+Research methods in psychology have traditionally focused on study design and statistical analysis. The R statistical programming language is well-suited to these problems, but it's also very handy for solving many other problems facing behavioural scientists. These resources were developed to support the programming component to the UNSW 3rd year psychology research internship (PSYC3361). I have taught this class since 2018. Since 2020 I have merged the content with the robust tools material listed above, but the 2018-2019 resources are available at <a href="https://psyr.djnavarro.net" class="uri">https://psyr.djnavarro.net</a>
 
 Perception and Cognition
 ------------------------
@@ -74,5 +74,5 @@ Computational Cognitive Science
 
 <a href="https://compcogsci-3016.djnavarro.net"><img width = "100%" src="/teaching/teaching-ccs.png" alt=""></a>
 
-From 2010-2014, I taught an introduction to computational cognitive science for undergraduate computer science students at the University of Adelaide, in collaboration with Andy Perfors. The course materials are archived at <a href="https://compcogsci-3016.djnavarro.net" class="uri">https://compcogsci-3016.djnavarro.net</a>
+From 2010-2014, I jointly taught an introduction to computational cognitive science for undergraduate computer science students at the University of Adelaide. The course materials are archived at <a href="https://compcogsci-3016.djnavarro.net" class="uri">https://compcogsci-3016.djnavarro.net</a>
 
