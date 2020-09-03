@@ -2,7 +2,7 @@
 output: hugodown::md_document
 title: Home
 summary: "Danielle Navarro"
-rmd_hash: 2cc1a0ee7232e795
+rmd_hash: 903f2f3d0827b2e2
 
 ---
 
@@ -22,7 +22,7 @@ Contact information:
 
 Miscellaneous links:
 
--   <a href="https://orcid.djnavarro.net"><i class="fab fa-orcid"></i></a>   orcid: <a href="https://orcid.djnavarro.net">0000-0001-7648-6578</i>
--   <a href="https://scholar.djnavarro.net"><i class="fas fa-graduation-cap"></i></a>   google scholar: <a href="https://scholar.djnavarro.net">QPH\_lRIAAAAJ</a>
--   <a href="https://education.rstudio.com/trainers/people/navarro+danielle/"><i class="fab fa-r-project"></i></a>   rstudio certification
+-   <a href="https://orcid.djnavarro.net"><i class="fab fa-orcid"></i></a> <a href="https://orcid.djnavarro.net">orcid</a>
+-   <a href="https://scholar.djnavarro.net"><i class="fas fa-graduation-cap"></i></a> <a href="https://scholar.djnavarro.net">google scholar</a>
+-   <a href="https://education.rstudio.com/trainers/people/navarro+danielle/"><i class="fab fa-r-project"></i></a> <a href="https://education.rstudio.com/trainers/people/navarro+danielle/">rstudio</a>
 
