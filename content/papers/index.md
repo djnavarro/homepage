@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 8a0b3590469deea7
+rmd_hash: db858b9c4340daa8
 
 ---
 
@@ -29,7 +29,7 @@ Books
 Accepted manuscripts
 --------------------
 
--   Navarro, D. J. (2020). If mathematical psychology did not exist we might to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory)\]
+-   Navarro, D. J. (2020). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory)\]
 -   Xie, B. Navarro, D. J. & Hayes, B. K. (2020). Adding types, but not tokens, affects property induction. *Cognitive Science*. Accepted 12 Aug 2020. \[[pdf](./preprint_birds.pdf), [psyarxiv](https://psyarxiv.com/6nky9/)\]
 
 Preprints, manuscripts, etc
