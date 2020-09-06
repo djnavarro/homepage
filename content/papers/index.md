@@ -6,14 +6,14 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 699a7b494ab2dc0b
+rmd_hash: 8a0b3590469deea7
 
 ---
 
 Academic Publications
 =====================
 
-One of the most venerable traditions of academic websites is to include a page drily listing the scholarly books and journal publications for which one is to be held responsible. One presumes that this tiresome practice establishes one's credentials to one's peers, who will dutifully stare at the wall of text and be impressed by the overwhelming boredom it inspires. To that end, on this page you can find links to selected books and papers, most of which are freely available on PsyArXiv. From 2016 onwards the listing is relatively complete, but for anything further back only selected papers are listed. It turns out there is a limit to the effort I am willing to expend on serving as a dead man's archivist.
+One of the most venerable traditions of academic websites is to include a page drily listing the scholarly books and journal publications for which one is to be held responsible. One presumes that this tiresome practice establishes one's credentials to one's peers, who will dutifully stare at the wall of text and be impressed by the overwhelming boredom it inspires. To that end, on this page you can find links to selected books and papers, most of which are freely available on PsyArXiv. From 2016 onwards the listing is relatively complete (for journal articles at least, not so much for refereed conference papers), but for anything further back only selected papers are listed. It turns out there is a limit to the effort I am willing to expend on serving as a dead man's archivist.
 
 As much as possible each citation links to the author-accepted pdf file and the preprint on PsyArXiv. It includes links to the journal DOI for the version of record as well as the open access versions, as well as links to any supplementary materials, data sets, analyses etc, hosted on OSF or GitHub.
 
@@ -26,15 +26,17 @@ Books
 -   Crump, M. J., Navarro, D. J. and Suzuki, J. (2019). *Answering questions with data: Introductory statistics for psychology students* \[[site](https://crumplab.github.io/statistics/), [doi](https://doi.org/10.17605/OSF.IO/JZE52)\]
 -   Navarro, D. J. (2015). *Learning statistics with R: A tutorial for psychology students and other beginners*. \[[site](https://learningstatisticswithr.com)\]
 
-<!-- ## Accepted manuscripts -->
+Accepted manuscripts
+--------------------
+
+-   Navarro, D. J. (2020). If mathematical psychology did not exist we might to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory)\]
+-   Xie, B. Navarro, D. J. & Hayes, B. K. (2020). Adding types, but not tokens, affects property induction. *Cognitive Science*. Accepted 12 Aug 2020. \[[pdf](./preprint_birds.pdf), [psyarxiv](https://psyarxiv.com/6nky9/)\]
 
 Preprints, manuscripts, etc
 ---------------------------
 
 -   Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D. J., & Sarnecka, B. W. (2019). The exploration advantage: Children's instinct to explore allows them to find information that adults miss. \[[psyarxiv](https://doi.org/10.31234/osf.io/h437v), [osf](https://osf.io/4rzsa/)\]
 -   Ransom, K., Voorspoels, W., Navarro, D. J., & Perfors, A. (2019). Where the truth lies: how sampling implications drive deception without lying. \[[psyarxiv](https://doi.org/10.31234/osf.io/pv5tk)\]
--   Xie, B. Navarro, D. J. & Hayes, B. K. (2020). Adding types, but not tokens, affects property induction. \[[pdf](./preprint_birds.pdf), [psyarxiv](https://psyarxiv.com/6nky9/)\]
--   Navarro, D. J. (2020). If mathematical psychology did not exist we might to invent it: A comment on theory building in psychology \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory)\]
 -   Towler, A., Growns, B., Navarro, D. J. & Martire, K. (2020). Forensic potato comparison: Does forensic examiners' perceptual expertise generalize to unfamiliar visual stimuli? *Manuscript under review.*
 -   Devezer, B., Navarro, D. J., Vanderkerckhove, J. & Buzbas, E. O. (2020). The case for formal methodology in scientific reform. \[[bioarxiv](https://doi.org/10.1101/2020.04.26.048306)\]
 -   Walker, A. R., Navarro, D. J., Newell, B. R. & Beesley, T. (2020). Protection from uncertainty in the exploration/exploitation trade-off. \[[psyarxiv](https://psyarxiv.com/5y643)\]
