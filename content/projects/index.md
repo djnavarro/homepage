@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 5b86d8c3a0a65c20
+rmd_hash: 44c4760e2feb28cf
 
 ---
 
@@ -16,11 +16,17 @@ Projects
 Research topics
 ---------------
 
-Being employed as an academic, some proportion of my projects are research related. My research projects can be grouped into two broad categories. First, as a cognitive scientist, I am interested in how people acquire new knowledge and reason about the world; and as a mathematical psychologist my approach to studying this is to employ a mix of computational modelling and experimental work. The second broad topic I write about is methodological. What is the relationship between scientific and statistical inferences? How should researchers choose between competing theoretical models? I spend quite a lot of my time thinking about these questions. A few recent papers that I really like:
+Being employed as an academic, some proportion of my projects are research related. My research projects can be grouped into two broad categories. First, as a cognitive scientist, I am interested in how people acquire new knowledge and reason about the world; and as a mathematical psychologist my approach to studying this is to employ a mix of computational modelling and experimental work. The second broad topic I write about is methodological. What is the relationship between scientific and statistical inferences? How should researchers choose between competing theoretical models? I spend quite a lot of my time thinking about these questions. Some recent papers that I really like:
 
+-   Navarro, D. J. (2020). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory)\]
 -   Navarro, D. J. (2019). [Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection](https://doi.org/10.31234/osf.io/39q8y). *Computational Brain and Behavior, 2*, 28-34
 -   Navarro, D. J. and Kemp, C. (2017). [None of the above: A Bayesian account of the detection of novel categories](https://doi.org/10.31234/osf.io/szr4u). *Psychological Review, 124*, 643-677
 -   Tauber, S., Navarro, D. J., Perfors A. and Steyvers, M. (2017). [Bayesian models of cognition revisited: Setting optimality aside and letting data drive psychological theory](https://doi.org/10.31234/osf.io/25gcm). *Psychological Review, 124*, 410-441.
+
+Texts and tutorials
+-------------------
+
+One of my joys in life is writing tutorial articles and technical documentation for open source projects. In addition to writing the somewhat successful [learning statistics with R](https://learningstatisticswithr.com) textbook, I'm currently collaborating with Hadley Wickham to write a third edition of the [ggplot2 book](https://ggplot2-book.org).
 
 R packages
 ----------
@@ -33,13 +39,13 @@ Writing R packages is one of my favourite activities, and I have several package
 
 Packages without hex stickers: [scrawl](https://scrawl.djnavarro.net), [flametree](https://flametree.djnavarro.net)
 
-Technical documentation and tutorials
--------------------------------------
-
-One of my joys in life is writing tutorial articles and technical documentation for open source projects. In addition to writing the somewhat successful [learning statistics with R](https://learningstatisticswithr.com) textbook, I've contributed a lot of writing to the 3rd edition of Hadley Wickham's [ggplot2 book](https://ggplot2-book.org) (my commits are [here](https://github.com/hadley/ggplot2-book/commits?author=djnavarro)), and started contributing to the tidyverse by implementing documentation fixes (e.g. to [dplyr::filter](https://github.com/tidyverse/dplyr/pull/4820)). I've discovered that I really enjoy this kind of work and am always on the look out for new opportunities in this area.
-
 R-Ladies Sydney
 ---------------
 
 [R-Ladies](https://rladies.org/) is a worldwide organisation that promotes gender diversity within the R community. The organisation is explicitly LGBTIQ friendly and trans-inclusive, and aims to provide support in across the entire spectrum of roles whether as leaders, package developers, conference speakers, conference participants, educators, or users. In collaboration with Jen Richmond, Lisa Williams, Steph Stammel I helped to co-found the [Sydney R-Ladies](https://rladiessydney.org/) chapter in 2018, and it's been one of the most rewarding professional activities I've ever been involved in.
+
+Other community activities
+--------------------------
+
+In the past I've been an associate editor at three journals that I think highly of: *Cognitive Science*, *Behavior Research Methods*, and *Open Mind*. At the moment, however, my only editorial role is as review editor at an [obscure technical journal](https://www.sciencemag.org/).
 
