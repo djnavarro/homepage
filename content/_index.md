@@ -2,7 +2,7 @@
 output: hugodown::md_document
 title: Home
 summary: "Danielle Navarro"
-rmd_hash: 6f691776b5902c0c
+rmd_hash: 146e17c05fe59fd0
 
 ---
 
@@ -11,9 +11,9 @@ Danielle Navarro
 
 Danielle Navarro is a computational cognitive scientist and Associate Professor at the University of New South Wales. Her research focuses on human concept learning and reasoning, and on statistical methods in the behavioural sciences. Other topics she has researched include decision making, language and cultural evolution, cognitive development, and forensic psychology. In her work as a [computational cognitive scientist](http://scholar.djnavarro.net), she uses a mix of experimental methods and computational modelling techniques to explore how the human mind works. On occasions she has been known to masquerade as a part-time [statistician](https://learningstatisticswithr.com), [data scientist](https://robust-tools.djnavarro.net) and an unskilled [software developer](https://github.com/djnavarro). She is also a [devoted R-Lady](https://rladiessydney.org), an [aspiring generative artist](https://art.djnavarro.net), and at times a [general purpose nuisance](https://twitter.com/djnavarro). She is prone to describing herself in the third person in biographies, but is willing to admit that it's super weird.
 
-<div class="container" style="display:flex; flex-flow: row wrap; width:100%">
+<div class="container" style="display:flex; flex-flow: row wrap; justify-content: space-evenly;width:100%">
 
-<div class="column" style="float:left; padding: 20px;">
+<div class="column" style="float:left;">
 
 Contact:
 
@@ -38,11 +38,9 @@ Links:
 
 </div>
 
-<div class="column" style="float:left; padding: 20px; width: 300px">
+<div class="column" style="float:left; width: 300px">
 
-Danielle:
-
-<img src="/header/postcard_bw.jpg" width = 300px>
+<br> <img src="/header/postcard_bw.jpg" width = 300px>
 
 </div>
 
