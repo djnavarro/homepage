@@ -2,7 +2,7 @@
 output: hugodown::md_document
 title: Home
 summary: "Danielle Navarro"
-rmd_hash: 146e17c05fe59fd0
+rmd_hash: f88e82d0b9e7829e
 
 ---
 
@@ -15,32 +15,21 @@ Danielle Navarro is a computational cognitive scientist and Associate Professor 
 
 <div class="column" style="float:left;">
 
-Contact:
-
 -   <a href="mailto:d.navarro@unsw.edu.au"><i class="fas fa-paper-plane"></i></a>   email: <a href="mailto:d.navarro@unsw.edu.au" class="email">d.navarro@unsw.edu.au</a>
 -   <a href="https://twitter.com/djnavarro"><i class="fa fa-twitter"></i></a>   twitter: <a href="https://twitter.com/djnavarro">djnavarro</a>
 -   <a href="https://github.com/djnavarro"><i class="fab fa-github"></i></a>   github: <a href="https://github.com/djnavarro">djnavarro</a>
 -   <a href="https://www.instagram.com/daniellenavarro77"><i class="fab fa-instagram"></i></a>   instagram: <a href="https://www.instagram.com/daniellenavarro77">daniellenavarro77</a>
 -   <a href="https://www.youtube.com/DanielleNavarro77"><i class="fab fa-youtube"></i></a>   youtube: <a href="https://www.youtube.com/DanielleNavarro77">daniellenavarro77</a>
 -   <a href="https://www.linkedin.com/in/djnavarro/"><i class="fab fa-linkedin"></i></a>   linkedin: <a href="https://www.linkedin.com/in/djnavarro/">djnavarro</a>
-
-<div style="width:100%;height 20px">
-
- 
-
-</div>
-
-Links:
-
--   <a href="http://orcid.djnavarro.net"><i class="fab fa-orcid"></i></a> <a href="http://orcid.djnavarro.net">orcid</a>
--   <a href="http://scholar.djnavarro.net"><i class="fas fa-graduation-cap"></i></a> <a href="http://scholar.djnavarro.net">google scholar</a>
--   <a href="https://education.rstudio.com/trainers/people/navarro+danielle/"><i class="fab fa-r-project"></i></a> <a href="https://education.rstudio.com/trainers/people/navarro+danielle/">rstudio</a>
+-   <a href="http://orcid.djnavarro.net"><i class="fab fa-orcid"></i></a>   <a href="http://orcid.djnavarro.net">orcid page</a>
+-   <a href="http://scholar.djnavarro.net"><i class="fas fa-graduation-cap"></i></a>   <a href="http://scholar.djnavarro.net">google scholar page</a>
+-   <a href="https://education.rstudio.com/trainers/people/navarro+danielle/"><i class="fab fa-r-project"></i></a>   <a href="https://education.rstudio.com/trainers/people/navarro+danielle/">rstudio page</a>
 
 </div>
 
 <div class="column" style="float:left; width: 300px">
 
-<br> <img src="/header/postcard_bw.jpg" width = 300px>
+<img src="/header/postcard_bw.jpg" width = 300px>
 
 </div>
 
