@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: f6f7cf7cd5f89ce7
+rmd_hash: de1e23c37a420db3
 
 ---
 
@@ -25,7 +25,7 @@ Being employed as an academic, some proportion of my projects are research relat
 Texts and tutorials
 -------------------
 
-One of my joys in life is writing tutorial articles and technical documentation for open source projects. In addition to writing the somewhat successful [learning statistics with R](https://learningstatisticswithr.com) textbook, I'm currently collaborating with Hadley Wickham to write a third edition of the [ggplot2 book](https://ggplot2-book.org).
+One of my joys in life is writing tutorial articles and technical documentation for open source projects. In addition to writing the somewhat successful [learning statistics with R](https://learningstatisticswithr.com) textbook, I'm currently collaborating with Hadley Wickham and Thomas Lin Pederson to write a third edition of the [ggplot2 book](https://ggplot2-book.org).
 
 R packages
 ----------
