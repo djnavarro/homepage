@@ -36,7 +36,6 @@ As much as possible each citation links to the author-accepted pdf file and the 
 ## Accepted manuscripts
 
   - Navarro, D. J. (2020). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. [[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory)]
-  - Xie, B. Navarro, D. J. & Hayes, B. K. (2020). Adding types, but not tokens, affects property induction. *Cognitive Science*. Accepted 12 Aug 2020. [[pdf](./preprint_birds.pdf), [psyarxiv](https://psyarxiv.com/6nky9/)]
 
 
 ## Preprints, manuscripts, etc
@@ -56,9 +55,10 @@ As much as possible each citation links to the author-accepted pdf file and the 
   Van Zandt, T. and Donkin, C. (2020). Is preregistration worthwhile? 
   *Trends in Cognitive Sciences, 24*(2), 94-95
   [[psyarxiv](https://doi.org/10.31234/osf.io/x36pz), [doi](https://doi.org/10.1016/j.tics.2019.11.009)]
-  - Martire, K. A., Edmond, G., & Navarro, D. J. (in press). Exploring juror 
+  - Martire, K. A., Edmond, G., & Navarro, D. J. (2020). Exploring juror 
   evaluations of expert opinions using the Expert Persuasion Expectancy (ExPEx)
   framework. *Legal and Criminological Psychology, 25*(2), 90-110. [[psyarxiv](https://psyarxiv.com/euh9g/), [osf](https://osf.io/3pxby/), [doi](https://doi.org/10.1111/lcrp.12165)]
+  - Xie, B. Navarro, D. J. & Hayes, B. K. (2020). Adding types, but not tokens, affects property induction. *Cognitive Science, 44*(9).  [[pdf](./preprint_birds.pdf), [psyarxiv](https://psyarxiv.com/6nky9/), [doi](http://dx.doi.org/10.1111/cogs.12895)]
 
 
 ## 2019
