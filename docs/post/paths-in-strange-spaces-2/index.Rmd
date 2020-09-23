@@ -1,0 +1,26 @@
+---
+output: hugodown::md_document
+title: "Paths in strange spaces: A comment on preregistration"
+type: "page"
+slug: paths-in-strange-spaces-2
+summary: ""
+author: ""
+tags: []
+date: 2020-09-23
+---
+
+# Paths in strange spaces
+
+The two-part blog post originally located at:
+
+- https://djnavarro.net/post/paths-in-strange-spaces/
+- https://djnavarro.net/post/paths-in-strange-spaces-2/
+
+has been archived in a somewhat more robust form on psyarxiv:
+
+- https://psyarxiv.com/wxn58
+
+and on github:
+
+- https://github.com/djnavarro/strange-paths
+
