@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 88ebb36fe2060123
+rmd_hash: 4c3d960c65e19394
 
 ---
 
@@ -49,7 +49,7 @@ Preprints, manuscripts, etc
 
 -   Szollosi, A., Kellen, D., Navarro, D. J., Shiffrin, R., van Rooij, I., Van Zandt, T. and Donkin, C. (2020). Is preregistration worthwhile? *Trends in Cognitive Sciences, 24*(2), 94-95 \[[psyarxiv](https://doi.org/10.31234/osf.io/x36pz), [doi](https://doi.org/10.1016/j.tics.2019.11.009)\]
 -   Martire, K. A., Edmond, G., & Navarro, D. J. (2020). Exploring juror evaluations of expert opinions using the Expert Persuasion Expectancy (ExPEx) framework. *Legal and Criminological Psychology, 25*(2), 90-110. \[[psyarxiv](https://psyarxiv.com/euh9g/), [osf](https://osf.io/3pxby/), [doi](https://doi.org/10.1111/lcrp.12165)\]
--   Xie, B. Navarro, D. J. & Hayes, B. K. (2020). Adding types, but not tokens, affects property induction. *Cognitive Science, 44*(9). \[[pdf](./preprint_birds.pdf), [psyarxiv](https://psyarxiv.com/6nky9/), [doi](http://dx.doi.org/10.1111/cogs.12895)\]
+-   Xie, B. Navarro, D. J. & Hayes, B. K. (2020). Adding types, but not tokens, affects property induction. *Cognitive Science, 44*(9), e12895. \[[pdf](./preprint_birds.pdf), [psyarxiv](https://psyarxiv.com/6nky9/), [doi](http://dx.doi.org/10.1111/cogs.12895)\]
 
 2019
 ----
