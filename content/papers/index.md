@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 3e9d184369df131c
+rmd_hash: 88ebb36fe2060123
 
 ---
 
@@ -31,6 +31,8 @@ Accepted manuscripts
 
 -   Navarro, D. J. (2020). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory)\]
 
+-   Hotaling, J. M., Navarro, D. J. & Newell, B. R. (2020). Skilled bandits: Learning to choose in a reactive world. *Journal of Experimental Psychology: Learning, Memory and Cognition.* Accepted 24 Sep 2020
+
 Preprints, manuscripts, etc
 ---------------------------
 
@@ -39,7 +41,6 @@ Preprints, manuscripts, etc
 -   Towler, A., Growns, B., Navarro, D. J. & Martire, K. (2020). Forensic potato comparison: Does forensic examiners' perceptual expertise generalize to unfamiliar visual stimuli? *Manuscript under review.*
 -   Devezer, B., Navarro, D. J., Vanderkerckhove, J. & Buzbas, E. O. (2020). The case for formal methodology in scientific reform. \[[bioarxiv](https://doi.org/10.1101/2020.04.26.048306)\]
 -   Walker, A. R., Navarro, D. J., Newell, B. R. & Beesley, T. (2020). Protection from uncertainty in the exploration/exploitation trade-off. \[[psyarxiv](https://psyarxiv.com/5y643)\]
--   Hotaling, J. M., Navarro, D. J. & Newell, B. R. (2020). Skilled bandits: Learning to choose in a reactive world. *Manuscript under review.*
 -   Kemp, C., Navarro, D. J. & Hayes, B. (2020). Adjustment for selection bias in intuitive reasoning. *Manuscript under review.*
 -   De Deyne, S., Navarro, D. J., Collell, G. & Perfors, A. (2020). Visual and affective grounding in language and mind. *Manuscript under review.*
 
