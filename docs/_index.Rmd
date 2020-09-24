@@ -13,15 +13,18 @@ Danielle Navarro is a computational cognitive scientist and Associate Professor 
 <div class="container" style="display:flex; flex-flow: row wrap; justify-content: space-evenly;width:100%">
 <div class="column" style="float:left;">
 
-- <a href="mailto:d.navarro@unsw.edu.au"><i class="fas fa-paper-plane"></i></a> &nbsp; email: d.navarro@unsw.edu.au
-- <a href="https://twitter.com/djnavarro"><i class="fa fa-twitter"></i></a> &nbsp; twitter: <a href="https://twitter.com/djnavarro">djnavarro</a>
-- <a href="https://github.com/djnavarro"><i class="fab fa-github"></i></a> &nbsp; github: <a href="https://github.com/djnavarro">djnavarro</a>
-- <a href="https://www.instagram.com/daniellenavarro77"><i class="fab fa-instagram"></i></a> &nbsp; instagram: <a href="https://www.instagram.com/daniellenavarro77">daniellenavarro77</a>
-- <a href="https://www.youtube.com/DanielleNavarro77"><i class="fab fa-youtube"></i></a> &nbsp; youtube: <a href="https://www.youtube.com/DanielleNavarro77">daniellenavarro77</a>
-- <a href="https://www.linkedin.com/in/djnavarro/"><i class="fab fa-linkedin"></i></a> &nbsp; linkedin: <a href="https://www.linkedin.com/in/djnavarro/">djnavarro</a>
-- <a href="http://orcid.djnavarro.net"><i class="fab fa-orcid"></i></a> &nbsp; <a href="http://orcid.djnavarro.net">orcid page</a>
-- <a href="http://scholar.djnavarro.net"><i class="fas fa-graduation-cap"></i></a> &nbsp; <a href="http://scholar.djnavarro.net">google scholar page</a>
-- <a href="https://education.rstudio.com/trainers/people/navarro+danielle/"><i class="fab fa-r-project"></i></a> &nbsp; <a href="https://education.rstudio.com/trainers/people/navarro+danielle/">rstudio page</a>
+<ul class="fa-ul">
+  <li><i class="fa-li fas fa-paper-plane"></i>email :: d.navarro@unsw.edu.au</li>
+  <li><i class="fa-li fa fa-twitter"></i>twitter :: <a href="https://twitter.com/djnavarro">djnavarro</a></li>
+  <li><i class="fa-li fab fa-github"></i>github :: <a href="https://github.com/djnavarro">djnavarro</a></li>
+  <li><i class="fa-li fa fa-instagram"></i>instagram :: <a href="https://www.instagram.com/daniellenavarro77">daniellenavarro77</a></li>
+  <li><i class="fa-li fab fa-youtube"></i>youtube :: <a href="https://www.youtube.com/DanielleNavarro77">daniellenavarro77</a></li>
+  <li><i class="fa-li fab fa-linkedin"></i>linkedin :: <a href="https://www.linkedin.com/in/djnavarro/">djnavarro</a></li>
+  <li><i class="fa-li fab fa-orcid"></i>orcid :: <a href="http://orcid.djnavarro.net">0000-0001-7648-6578</a></li>
+<!--  <li><i class="fa-li fas fa-graduation-cap"></i>google scholar :: <a href="http://scholar.djnavarro.net">QPH_lRIAAAAJ</a></li> -->
+<!--  <li><i class="fa-li fab fa-r-project"></i>rstudio :: <a href="https://education.rstudio.com/trainers/people/navarro+danielle/">here</a></li> -->
+</ul>
+<br>
 
 </div>
 
