@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 4c3d960c65e19394
+rmd_hash: 1d2df75d28276af6
 
 ---
 
@@ -20,7 +20,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
 Books
 -----
 
--   Navarro, D. J., Foxcroft, D. R. and Meunier, J. M. (2019). *Apprentissage des statistiques avec Jamovi:un tutoriel pour les étudiants en psychologie et autres débutants.* hal-02335912. \[[book](https://hal.archives-ouvertes.fr/hal-02335912/document)\]
+-   Navarro D.J. and Foxcroft, D.R. (2020). *Apprentissage des statistiques avec Jamovi : un tutoriel pour les étudiants en psychologie et autres débutants.* (Version 0.70.2). (J.M. Meunier, Trad.) \[[book](https://jmeunierp8.github.io/ManuelJamovi)\]
 -   Navarro, D. J. and Foxcroft D. R. (2019). *Learning statistics with jamovi: A tutorial for psychology students and other beginners.* \[[site](https://doi.org/10.24384/hgc3-7p15)\]
 -   Navarro, D. J., Foxcroft D. R. and Faulkenberry, T. J. (2019). *Learning statistics with JASP: A tutorial for psychology students and other beginners.* \[[site](https://learnstatswithjasp.com/)\]
 -   Crump, M. J., Navarro, D. J. and Suzuki, J. (2019). *Answering questions with data: Introductory statistics for psychology students* \[[site](https://crumplab.github.io/statistics/), [doi](https://doi.org/10.17605/OSF.IO/JZE52)\]
