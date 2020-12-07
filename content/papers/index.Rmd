@@ -359,3 +359,9 @@ As much as possible each citation links to the author-accepted pdf file and the 
     Bulletin and Review, 9*, 43-58. [[pdf](./2002_alcove.pdf),
     [doi](https://doi.org/10.3758/BF03196256),
     [psyarxiv](https://dx.doi.org/10.31234/osf.io/uvtbf)]
+
+
+## The living dead
+
+- Navarro, D. J. (2019). Paths in strange spaces: A comment on preregistration. [[psyarxiv](https://psyarxiv.com/wxn58), [github](https://github.com/djnavarro/strange-paths)] 
+- Navarro, D. J. (2018). A personal essay on Bayes factors. [[psyarxiv](https://psyarxiv.com/nujy6/), [github](https://github.com/djnavarro/bayes-factor-essay)]

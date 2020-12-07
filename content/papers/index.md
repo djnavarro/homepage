@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: de2fe8abe84be8a3
+rmd_hash: ce1ea54da0855b5d
 
 ---
 
@@ -124,4 +124,10 @@ Preprints, manuscripts, etc
 -   Navarro, D. J. (2003). Regarding the complexity of additive clustering models: Comment on Lee (2001). *Journal of Mathematical Psychology, 47*, 241-243. \[[pdf](./2003_adclusnote.pdf), [doi](https://dx.doi.org/10.1016/S0022-2496%2802%2900026-3), [psyarxiv](https://dx.doi.org/10.31234/osf.io/akbyv)\]
 -   Navarro, D. J. and Lee, M. D. (2003). Combining dimensions and features in similarity-based representations. In S. Becker, S. Thrun and K. Obermayer (Ed.) *Advances in Neural Information Processing Systems* (pp. 67-74). \[[pdf](./2003_hybridsimilarity.pdf), [psyarxiv](https://dx.doi.org/10.31234/osf.io/qejyb)\]
 -   Lee, M. D. and Navarro, D. J. (2002). Extending the ALCOVE model of category learning to featural stimulus domains. *Psychonomic Bulletin and Review, 9*, 43-58. \[[pdf](./2002_alcove.pdf), [doi](https://doi.org/10.3758/BF03196256), [psyarxiv](https://dx.doi.org/10.31234/osf.io/uvtbf)\]
+
+The living dead
+---------------
+
+-   Navarro, D. J. (2019). Paths in strange spaces: A comment on preregistration. \[[psyarxiv](https://psyarxiv.com/wxn58), [github](https://github.com/djnavarro/strange-paths)\]
+-   Navarro, D. J. (2018). A personal essay on Bayes factors. \[[psyarxiv](https://psyarxiv.com/nujy6/), [github](https://github.com/djnavarro/bayes-factor-essay)\]
 
