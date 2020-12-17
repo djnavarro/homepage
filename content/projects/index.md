@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: de1e23c37a420db3
+rmd_hash: 296f296f16f1e8be
 
 ---
 
@@ -46,5 +46,5 @@ R-Ladies Sydney
 Other community activities
 --------------------------
 
-In the past I've been an associate editor at three journals that I think highly of: *Cognitive Science*, *Behavior Research Methods*, and *Open Mind*. At the moment, however, my only editorial role is as review editor at an [obscure technical journal](https://www.sciencemag.org/).
+In the past I've been an associate editor at three journals that I think highly of: [*Cognitive Science*](https://onlinelibrary.wiley.com/journal/15516709), [*Behavior Research Methods*](https://www.springer.com/journal/13428), and [*Open Mind*](https://www.mitpressjournals.org/loi/opmi). I currently hold editorial positions at [*Science*](https://www.sciencemag.org/) and (as of 2021) [*Psychological Review*](https://www.apa.org/pubs/journals/rev/).
 
