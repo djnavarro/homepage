@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: ce1ea54da0855b5d
+rmd_hash: a951d81dd2e1804f
 
 ---
 
@@ -42,7 +42,10 @@ Preprints, manuscripts, etc
 -   Towler, A., Growns, B., Navarro, D. J. & Martire, K. (2020). Forensic potato comparison: Does forensic examiners' perceptual expertise generalize to unfamiliar visual stimuli? *Manuscript under review*
 -   Devezer, B., Navarro, D. J., Vanderkerckhove, J. & Buzbas, E. O. (2020). The case for formal methodology in scientific reform. \[[bioarxiv](https://doi.org/10.1101/2020.04.26.048306)\]
 -   Kemp, C., Navarro, D. J. & Hayes, B. (2020). Adjustment for selection bias in intuitive reasoning. *Manuscript under review*
--   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (2020). Confidence regulates feedback processing during human probabilistic learning. *Manuscript in preparation*
+-   Ledgerwood, A. et al. (2020). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Manuscript under review*
+-   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (in preparation). Confidence regulates feedback processing during human probabilistic learning. *Manuscript in preparation*
+-   Wickham, H., Navarro, D. J., & Pedersen, T. L. (in preparation). *ggplot2: Elegant Graphics for Data Analysis* (3rd edition). To be published by Springer. \[[book](https://ggplot2-book.org/)\]
+-   Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (in preparation). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Manuscript in preparation*
 
 2020
 ----
