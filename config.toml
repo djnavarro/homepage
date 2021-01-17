@@ -70,6 +70,10 @@ theme = "calade"
     name = "Art"
     url = "https://art.djnavarro.net"
     weight = 7
+[[menu.main]]
+    name = "Essays"
+    url = "https://essays.djnavarro.net"
+    weight = 8
 
 
 # Parameters used throughout the site.
