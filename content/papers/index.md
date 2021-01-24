@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 1c8d575ca14ea433
+rmd_hash: 172e8749156c5a66
 
 ---
 
@@ -42,9 +42,9 @@ Preprints, manuscripts, etc
 -   Ransom, K., Voorspoels, W., Navarro, D. J., & Perfors, A. (2019). Where the truth lies: how sampling implications drive deception without lying. \[[psyarxiv](https://doi.org/10.31234/osf.io/pv5tk)\]
 -   Towler, A., Growns, B., Navarro, D. J. & Martire, K. (2020). Forensic potato comparison: Does forensic examiners' perceptual expertise generalize to unfamiliar visual stimuli? *Manuscript under review*
 -   Devezer, B., Navarro, D. J., Vanderkerckhove, J. & Buzbas, E. O. (2020). The case for formal methodology in scientific reform. \[[bioarxiv](https://doi.org/10.1101/2020.04.26.048306)\]
--   Kemp, C., Navarro, D. J. & Hayes, B. (2020). Adjustment for selection bias in intuitive reasoning. *Manuscript under review*
+-   Kemp, C., Navarro, D. J. & Hayes, B. (submitted). Adjustment for selection bias in intuitive reasoning. *Manuscript under revision*
 -   Ledgerwood, A. et al. (2020). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/gdzue)\]
--   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (in preparation). Confidence regulates feedback processing during human probabilistic learning. *Manuscript in preparation*
+-   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (submitted). Confidence regulates feedback processing during human probabilistic learning. *Manuscript under review*
 -   Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (in preparation). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Manuscript in preparation*
 
 2020
