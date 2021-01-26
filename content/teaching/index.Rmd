@@ -18,12 +18,15 @@ date: 2020-09-02
 
 The research toolkit in psychological science has changed a lot in the last decade. Across many areas there is a heightened emphasis on transparency, open access, and a preference for the use of freely available tools. These skills are rarely taught during undergraduate psychology classes, and because research methods classes tend to be statistics heavy, they’re rarely a part of research methodology classes either. This class provides a hands on tutorial in how to use these tools: it covers an introduction to R programming, modern data visualisation and data wrangling, how to structure your projects, version control and how to write professional documents in R. The course is designed for novices, and no preexisting familiarity with these tools and no programming background is assumed. https://robust-tools.djnavarro.net
 
+<br><br>
+
 ## Complex Human Data Summer School
 
 <a href="https://chdsummerschool.com/"><img width = "100%" src="/teaching/teaching-chdss.png" alt=""></a>
 
 Researchers from psychology and other disciplines are increasingly relying on computational analyses of large data sets to draw conclusions about human behaviour. This kind of research requires skills that are not often taught as part of the psychology curriculum. In collaboration with colleagues at the University of Melbourne I have been running a summer school to help people collect and analyse complex human data, from 2018-2019. (Due to COVID-19 the school will not run in 2020) https://chdsummerschool.com/
 
+<br><br>
 
 ## Data Visualisation
 
@@ -31,11 +34,16 @@ Researchers from psychology and other disciplines are increasingly relying on co
 
 This site has links to all the course materials associated with the workshop on data visualisation in R that formed part of the 2019 satRday in Johannesburg meeting. The core of the workshop focuses on creating clean data visualisations with ggplot2, and turning them into animations with gganimate. The workshop is aimed at a beginner to intermediate level. Some prior familiarity with tidyverse would be helpful but not assumed. Materials posted at https://satrdayjoburg.djnavarro.net
 
+
+<br><br>
+
 ## Minds and Machines
 
 <a href="https://minds-machines-4103.djnavarro.net"><img width = "100%" src="/teaching/teaching-mm.png" alt=""></a>
 
 From 2016-2019 I ran an honours elective class (part of PSYC4103) that provides a gentle introduction to computational modelling of human cognition. The class was structured around a series of case studies covering inductive reasoning, concept learning, decision making and language acquisition. Discussions focus on whether - and how - the comparison between human and the machine learning tells us something useful about the mind. Materials for this class are posted at https://minds-machines-4103.djnavarro.net
+
+<br><br>
 
 ## Learning Statistics with R
 
@@ -43,11 +51,15 @@ From 2016-2019 I ran an honours elective class (part of PSYC4103) that provides 
 
 From 2011 to 2015 I taught an introductory statistics class at the University of Adelaide using the R statistical computing language, and wrote my own lecture notes, pitched at undergraduate psychology students. The notes became quite extensive, and are now effectively a book, available at https://learningstatisticswithr.com
 
+<br><br>
+
 ## Cognitive Science 
 
 <a href="https://cognitive-science-3211.djnavarro.net"><img width = "100%" src="/teaching/teaching-cogsci.png" alt=""></a>
 
 In 2018 I gave this lecture series as part of the Cognitive Science third year subject at UNSW (PSYC3211) which provides an introduction to topics in computational modelling of cognition at an informal level. Materials are available at https://cognitive-science-3211.djnavarro.net
+
+<br><br>
 
 ## R for Psychological Science
 
@@ -55,11 +67,15 @@ In 2018 I gave this lecture series as part of the Cognitive Science third year s
 
 Research methods in psychology have traditionally focused on study design and statistical analysis. The R statistical programming language is well-suited to these problems, but it's also very handy for solving many other problems facing behavioural scientists. These resources were developed to support the programming component to the UNSW 3rd year psychology research internship (PSYC3361). I have taught this class since 2018. Since 2020 I have merged the content with the robust tools material listed above, but the 2018-2019 resources are available at https://psyr.djnavarro.net
 
+<br><br>
+
 ## Perception and Cognition
 
 <a href="https://perception-cognition-2071.djnavarro.net"><img width = "100%" src="/teaching/teaching-psyc2071.png" alt=""></a>
 
 This is a lecture series I gave as part of the PSYC2071 (Perception and Cognition) class at UNSW from 2016-2018, and provides an introduction to cognitive psychology. The lecture materials present a brief history to the field, and then discuss key ideas in human attention, categorisation and reasoning. The content is available at https://perception-cognition-2071.djnavarro.net
+
+<br><br>
   
 ## Computational Cognitive Science
 
