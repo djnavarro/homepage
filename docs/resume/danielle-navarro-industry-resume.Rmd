@@ -1,8 +1,7 @@
 ---
 name: Danielle
 surname: Navarro
-position: "Associate Professor"
-address: "School of Psychology, UNSW Sydney"
+position: "Associate Professor of Cognitive Science, UNSW Sydney"
 phone: +61 421 488 402
 www: djnavarro.net
 email: d.navarro@unsw.edu.au
@@ -18,15 +17,14 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
-# Some stuff about me
+# Some biographical detail
 
 My Ph.D. was awarded in 2003 by the University of Adelaide, where I was appointed Lecturer in 2006, promoted to Senior Lecturer in 2009 and Associate Professor in 2013. I held multiple Australian Research Council (ARC) Fellowships from 2007-2015 and from 2016 have been Associate Professor at UNSW Sydney. 
 
-# Technical data science skills
+# Coding and workflow
 
-- Languages: R, Matlab/Octave, C++, Javascript/HTML/CSS
-- Tools: git/GitHub, Hugo, tidyverse, Rmarkdown/blogdown/etc, package development, usethis/testthat/etc
-- Packages: caladown, jaysire, flametree etc
+My code is written mostly in R, with a light sprinkle of C++ when speed is necessary. For web programming I rely on javascript HTML and CSS, focusing on libraries such as jsPsych designed specifically for my use case, and use plumber and Shiny at times when I need web applications to rely on R code. I make extensive use of Hugo and associated literate programming tools in R (blogdown, hugodown, rmarkdown etc), and have experience writing Hugo themes. My workflow was previously based around Matlab/Octave and I remain familiar with those languages; additionally I have some familiarity with Python. I've written several small R packages (caladown, jaysire, flametree etc) and have experience with standard developer tools (usethis, testthat, pkgdown etc), and am similarly comfortable working with git/GitHub and associated R tools (gert, git2r, etc). For everyday data analysis I rely on tidyverse primarily. I have a little experience with tidymodels, but my typical workflow is currently based around calling JAGS and (to a lesser extent) Stan directly to implement Bayesian data analysis.
+
 
 # Communication 
 
