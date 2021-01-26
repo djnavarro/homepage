@@ -1,0 +1,94 @@
+---
+name: Danielle
+surname: Navarro
+position: "Associate Professor"
+address: "School of Psychology, UNSW Sydney"
+phone: +61 421 488 402
+www: djnavarro.net
+email: d.navarro@unsw.edu.au
+twitter: djnavarro
+github: djnavarro
+linkedin: djnavarro
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Some stuff about me
+
+My Ph.D. was awarded in 2003 by the University of Adelaide, where I was appointed Lecturer in 2006, promoted to Senior Lecturer in 2009 and Associate Professor in 2013. I held multiple Australian Research Council (ARC) Fellowships from 2007-2015 and from 2016 have been Associate Professor at UNSW Sydney. 
+
+# Data science skills
+
+- big list of programming languages, tools etc
+- list of R packages
+- technical writing: 
+- public speaking and communication
+- broad perspective on data science, statistics and scientific process (devil)
+
+# Education and training skills
+
+- tidyverse instructor
+- wrote award winning statistics textbook
+- co-authoring ggplot2 3rd ed
+- open course materials, youtube videos
+- summer school 
+- teaching philosphy (see M&M course notes)
+
+
+# Project leadership and mentoring
+
+- successful grant funding, part of CoE 
+- ran research group, lots of academic output
+- supervised 8 postdocs, 12 phd students, 21 hons/masters. they all landed well
+
+
+# Leadership in scientific communities
+
+- editorial roles
+- RLadies Sydney
+- conference organisation
+
+
+<!-- # Education -->
+
+<!-- ```{r} -->
+<!-- library(tibble) -->
+<!-- tribble( -->
+<!--   ~ Degree, ~ Year, ~ Institution, ~ Where, -->
+<!--   "Informal studies", "1889-91", "Flying University", "Warsaw, Poland", -->
+<!--   "Master of Physics", "1893", "Sorbonne Université", "Paris, France", -->
+<!--   "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France" -->
+<!-- ) %>%  -->
+<!--   detailed_entries(Degree, Year, Institution, Where) -->
+<!-- ``` -->
+
+<!-- # Nobel Prizes -->
+
+<!-- ```{r} -->
+<!-- tribble( -->
+<!--   ~Year, ~Type, ~Desc, -->
+<!--   1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel", -->
+<!--   1911, "Chemistry", "Awarded for the discovery of radium and polonium" -->
+<!-- ) %>%  -->
+<!--   brief_entries( -->
+<!--     glue::glue("Nobel Prize in {Type}"), -->
+<!--     Year,  -->
+<!--     Desc -->
+<!--   ) -->
+<!-- ``` -->
+
+<!-- # Publications -->
+
+<!-- ```{r} -->
+<!-- library(dplyr) -->
+<!-- knitr::write_bib(c("vitae", "tibble"), "packages.bib") -->
+
+<!-- bibliography_entries("packages.bib") %>% -->
+<!--   arrange(desc(author$family), issued) -->
+<!-- ``` -->
+
