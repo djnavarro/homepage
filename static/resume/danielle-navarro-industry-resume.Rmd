@@ -25,12 +25,9 @@ My Ph.D. was awarded in 2003 by the University of Adelaide, where I was appointe
 
 My code is written mostly in R, with a light sprinkle of C++ when speed is necessary. For web programming I rely on javascript HTML and CSS, focusing on libraries such as jsPsych designed specifically for my use case, and use plumber and Shiny at times when I need web applications to rely on R code. I make extensive use of Hugo and associated literate programming tools in R (blogdown, hugodown, rmarkdown etc), and have experience writing Hugo themes. My workflow was previously based around Matlab/Octave and I remain familiar with those languages; additionally I have some familiarity with Python. I've written several small R packages (caladown, jaysire, flametree etc) and have experience with standard developer tools (usethis, testthat, pkgdown etc), and am similarly comfortable working with git/GitHub and associated R tools (gert, git2r, etc). For everyday data analysis I rely on tidyverse primarily. I have a little experience with tidymodels, but my typical workflow is currently based around calling JAGS and (to a lesser extent) Stan directly to implement Bayesian data analysis.
 
+# Communication
 
-# Communication 
-
-- Technical writing: LSR, ggplot2 book, academic papers
-- Public speaking and communication (useR keynote, rstudioconf talk)
-- broad perspective on data science, statistics and scientific process (devil, aarhus talk)
+In academic roles communication is traditionally described in terms of "outward" expression of ideas to others. My specialist work is communicated by an absurdly large number of journal articles, and as such I am an accomplished technical writer (e.g., devil deep blue sea). I write books for a more general audience (e.g., LSR) and data scientists (e.g., ggplot2); my writing is highly regarded for its clarity and humour, if not its brevity. I am adept at giving public lectures (), running small workshops, teaching formal and informal classes, in data science, psychology etc. A different perspective on communication focuses on teamwork, interpersonal skills and listening to others even when they may disagree in heated terms. Previous leadership roles (on academic committees etc), training, and experience running a research group have served me well in this respect. My real world experience has been very useful in learning these skills: parenting experience and online interaction as a (somewhat) prominent transgender woman has taught me to understand, empathise with and respect others strong emotions, while establishing strong relationships and appropriate boundaries. 
 
 # Education and training skills
 
@@ -54,6 +51,7 @@ My code is written mostly in R, with a light sprinkle of C++ when speed is neces
 - editorial roles
 - RLadies Sydney
 - conference organisation
+- broad perspective on data science, statistics and scientific process (devil, aarhus talk)
 
 
 <!-- # Education -->
