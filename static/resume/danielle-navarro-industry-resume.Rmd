@@ -22,17 +22,21 @@ library(vitae)
 
 My Ph.D. was awarded in 2003 by the University of Adelaide, where I was appointed Lecturer in 2006, promoted to Senior Lecturer in 2009 and Associate Professor in 2013. I held multiple Australian Research Council (ARC) Fellowships from 2007-2015 and from 2016 have been Associate Professor at UNSW Sydney. 
 
-# Data science skills
+# Technical data science skills
 
-- big list of programming languages, tools etc
-- list of R packages
-- technical writing: 
-- public speaking and communication
-- broad perspective on data science, statistics and scientific process (devil)
+- Languages: R, Matlab/Octave, C++, Javascript/HTML/CSS
+- Tools: git/GitHub, Hugo, tidyverse, Rmarkdown/blogdown/etc, package development, usethis/testthat/etc
+- Packages: caladown, jaysire, flametree etc
+
+# Communication 
+
+- Technical writing: LSR, ggplot2 book, academic papers
+- Public speaking and communication (useR keynote, rstudioconf talk)
+- broad perspective on data science, statistics and scientific process (devil, aarhus talk)
 
 # Education and training skills
 
-- tidyverse instructor
+- certified tidyverse instructor
 - wrote award winning statistics textbook
 - co-authoring ggplot2 3rd ed
 - open course materials, youtube videos
