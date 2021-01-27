@@ -6,7 +6,7 @@ summary: "Résumé for Danielle Navarro"
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: a1de381342911b25
+rmd_hash: fb1a83d6414014cf
 
 ---
 
@@ -15,5 +15,5 @@ Résumé
 
 I suppose it would be a good idea to write one of these things? I feel mildly confident that I have indeed accomplished things and have a few useful skills, but I seem to have forgotten to list them. A grave omission for anyone with ambitions to remain gainfully employed, I expect.
 
-Edit: Okay *fine*. Here is my scandalously short two-page [academic résumé](./danielle-navarro-academic-resume.pdf).
+Edit: Okay *fine*. Here is my scandalously short two-page [academic résumé](./danielle-navarro-academic-resume.pdf). Also, because academic résumés are boring stuffy lists of achievements and not particularly helpful in an industry context, here is a [skills-focused résumé](./danielle-navarro-industry-resume.pdf).
 
