@@ -19,31 +19,29 @@ library(vitae)
 
 # Some biographical detail
 
-My Ph.D. was awarded in 2003 by the University of Adelaide, where I was appointed Lecturer in 2006, promoted to Senior Lecturer in 2009 and Associate Professor in 2013. I held multiple Australian Research Council (ARC) Fellowships from 2007-2015 and from 2016 have been Associate Professor at UNSW Sydney. 
+My Ph.D. was awarded in 2003 by the University of Adelaide, where I was appointed Lecturer in 2006, promoted to Senior Lecturer in 2009 and Associate Professor in 2013. I held multiple Australian Research Council (ARC) Fellowships (add explanation) from 2007-2015 and from 2016 have been Associate Professor at UNSW Sydney. 
 
 # Coding and workflow
 
-My code is written mostly in R, with a light sprinkle of C++ when speed is necessary. For web programming I rely on javascript HTML and CSS, focusing on libraries such as jsPsych designed specifically for my use case, and use plumber and Shiny at times when I need web applications to rely on R code. I make extensive use of Hugo and associated literate programming tools in R (blogdown, hugodown, rmarkdown etc), and have experience writing Hugo themes. My workflow was previously based around Matlab/Octave and I remain familiar with those languages; additionally I have some familiarity with Python. I've written several small R packages (caladown, jaysire, flametree etc) and have experience with standard developer tools (usethis, testthat, pkgdown etc), and am similarly comfortable working with git/GitHub and associated R tools (gert, git2r, etc). For everyday data analysis I rely on tidyverse primarily. I have a little experience with tidymodels, but my typical workflow is currently based around calling JAGS and (to a lesser extent) Stan directly to implement Bayesian data analysis.
+My code is written mostly in R, with a light sprinkle of C++ when speed is necessary. For web programming I rely on javascript HTML and CSS, focusing on libraries such as jsPsych designed specifically for my use case, and use plumber and Shiny at times when I need web applications to rely on R code. I make extensive use of Hugo and associated literate programming tools in R (blogdown, hugodown, rmarkdown etc), and have experience writing Hugo themes. My workflow was previously based around Matlab/Octave and I remain familiar with those languages; additionally I have some familiarity with Python. I've written several small R packages (caladown, jaysire, flametree etc) and have experience with standard developer tools (usethis, testthat, pkgdown etc), and am similarly comfortable working with git/GitHub and associated R tools (gert, git2r, etc). For everyday data analysis I rely on tidyverse primarily. I have experience with tidymodels, but my workflow is largely based around calling JAGS and (to a lesser extent) Stan directly to implement Bayesian data analysis.
 
 # Communication
 
-In academic roles communication is traditionally described in terms of "outward" expression of ideas to others. My specialist work is communicated by an absurdly large number of journal articles, and as such I am an accomplished technical writer (e.g., devil deep blue sea). I write books for a more general audience (e.g., LSR) and data scientists (e.g., ggplot2); my writing is highly regarded for its clarity and humour, if not its brevity. I am adept at giving public lectures (), running small workshops, teaching formal and informal classes, in data science, psychology etc. A different perspective on communication focuses on teamwork, interpersonal skills and listening to others even when they may disagree in heated terms. Previous leadership roles (on academic committees etc), training, and experience running a research group have served me well in this respect. My real world experience has been very useful in learning these skills: parenting experience and online interaction as a (somewhat) prominent transgender woman has taught me to understand, empathise with and respect others strong emotions, while establishing strong relationships and appropriate boundaries. 
+In academic roles communication is traditionally described in terms of "outward" expression of ideas to others. My specialist work is communicated by an absurdly large number of journal articles, and as such I am an accomplished technical writer (e.g., devil deep blue sea). I write books for a more general audience (e.g., LSR) and data scientists (e.g., ggplot2); my writing is highly regarded for its clarity and humour, if not its brevity. I am adept at giving public lectures (link useR), running small workshops, teaching formal and informal classes, in data science, psychology etc. A different perspective on communication focuses on teamwork, interpersonal skills and listening to others even when they may disagree in heated terms. Previous leadership roles on academic committees etc, formal leadership training, and experience running a research group have all served me well in this respect, as have my life as a parent and as a relatively well-known transgender woman online. 
 
-# Education and training skills
+# Education and mentoring
 
-- certified tidyverse instructor
-- wrote award winning statistics textbook
-- co-authoring ggplot2 3rd ed
-- open course materials, youtube videos
-- summer school 
-- teaching philosphy (see M&M course notes)
+I have been a professional educator for over 15 years, teaching classes in data science, statistics, cognitive science, and other areas. I am a certified tidyverse instructor, the author of an award winning open access statistics textbook, and make course materials publicly available in a variety of formats. I've run summer schools aimed at teaching statistical programming in R to social scientists, and have experience teaching large and small groups. [needs detail re effectiveness]
+
+In addition to university and summer school teaching, I have been privileged to be and advisor for approximately 40 graduate and honours (advanced undergraduate) students, with very broad range of interests and backgrounds: has included mathematicians, computer scientists, psychologists, statisticians and more. Some are coding experts, others are novices: I am always prepared to meet people where they are, at any stage in their journey. I am endlessly passionate about and experienced in helping them to their next stage, whatever that may be. 
 
 
-# Project leadership and mentoring
+# Project leadership, team building and research culture
+
+In the CoE talk abojt it in terms of bringing teams and research cultures and ideas
 
 - successful grant funding, part of CoE 
 - ran research group, lots of academic output
-- supervised 8 postdocs, 12 phd students, 21 hons/masters. they all landed well
 
 
 # Leadership in scientific communities
