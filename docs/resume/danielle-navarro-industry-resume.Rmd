@@ -19,37 +19,41 @@ library(vitae)
 
 # Some biographical detail
 
-My Ph.D. was awarded in 2003 by the University of Adelaide, where I was appointed Lecturer in 2006, promoted to Senior Lecturer in 2009 and Associate Professor in 2013. I held multiple Australian Research Council (ARC) Fellowships (add explanation) from 2007-2015 and from 2016 have been Associate Professor at UNSW Sydney. 
+I spent my youth living in rural Australia during the 1980s, but have been living in Sydney for the last several years. My career has been as cognitive scientist and more recently a data scientist, based within the university system. My PhD was awarded in 2003 by the University of Adelaide, where I was appointed Lecturer in 2006, promoted to Senior Lecturer in 2009 and Associate Professor in 2013. From 2007-2015 I held multiple Australian Research Council Fellowships, prestigious well-funded research positions awarded via competitive grant processes. From 2016 have been an Associate Professor at UNSW Sydney. In these roles I have studied the mathematical and computational basis for human learning and reasoning; as a happy side-effect, I've learned a lot of data science and statistics!
 
 # Coding and workflow
 
 My code is written mostly in R, with a light sprinkle of C++ when speed is necessary. For web programming I rely on javascript HTML and CSS, focusing on libraries such as jsPsych designed specifically for my use case, and use plumber and Shiny at times when I need web applications to rely on R code. I make extensive use of Hugo and associated literate programming tools in R (blogdown, hugodown, rmarkdown etc), and have experience writing Hugo themes. My workflow was previously based around Matlab/Octave and I remain familiar with those languages; additionally I have some familiarity with Python. I've written several small R packages (caladown, jaysire, flametree etc) and have experience with standard developer tools (usethis, testthat, pkgdown etc), and am similarly comfortable working with git/GitHub and associated R tools (gert, git2r, etc). For everyday data analysis I rely on tidyverse primarily. I have experience with tidymodels, but my workflow is largely based around calling JAGS and (to a lesser extent) Stan directly to implement Bayesian data analysis.
 
-# Communication
+# Reporting and communication
 
-In academic roles communication is traditionally described in terms of "outward" expression of ideas to others. My specialist work is communicated by an absurdly large number of journal articles, and as such I am an accomplished technical writer (e.g., devil deep blue sea). I write books for a more general audience (e.g., LSR) and data scientists (e.g., ggplot2); my writing is highly regarded for its clarity and humour, if not its brevity. I am adept at giving public lectures (link useR), running small workshops, teaching formal and informal classes, in data science, psychology etc. A different perspective on communication focuses on teamwork, interpersonal skills and listening to others even when they may disagree in heated terms. Previous leadership roles on academic committees etc, formal leadership training, and experience running a research group have all served me well in this respect, as have my life as a parent and as a relatively well-known transgender woman online. 
-
-# Education and mentoring
-
-I have been a professional educator for over 15 years, teaching classes in data science, statistics, cognitive science, and other areas. I am a certified tidyverse instructor, the author of an award winning open access statistics textbook, and make course materials publicly available in a variety of formats. I've run summer schools aimed at teaching statistical programming in R to social scientists, and have experience teaching large and small groups. [needs detail re effectiveness]
-
-In addition to university and summer school teaching, I have been privileged to be and advisor for approximately 40 graduate and honours (advanced undergraduate) students, with very broad range of interests and backgrounds: has included mathematicians, computer scientists, psychologists, statisticians and more. Some are coding experts, others are novices: I am always prepared to meet people where they are, at any stage in their journey. I am endlessly passionate about and experienced in helping them to their next stage, whatever that may be. 
+In academic roles communication is traditionally described in terms of "outward" expression of ideas to others. My specialist work has been communicated through approximately 150 academic papers ([**scholar.djnavarro.net**](http://scholar.djnavarro.net)), and as such I am an accomplished technical writer (e.g., [**psyarxiv.com/39q8y**](https://psyarxiv.com/39q8y/)). Outside of traditional academic papers, I write books for a broader audience (e.g., [**learningstatisticswithr.com**](https://learningstatisticswithr.com)) and my writing is highly regarded for its clarity and humour, if perhaps not its brevity. I am adept at public speaking, running small workshops, teaching formal and informal classes, in data science, psychology, and other areas ([e.g., **youtu.be/BQMDOxWGrQg**](https://youtu.be/BQMDOxWGrQg))
 
 
-# Project leadership, team building and research culture
+# Training, mentoring, and interpersonal skills
 
-In the CoE talk abojt it in terms of bringing teams and research cultures and ideas
+I have been a professional educator for over 15 years, teaching classes in data science, statistics, cognitive science, and other areas ([**djnavarro.net/teaching**](https://djnavarro.net/teaching/)). I am a certified tidyverse instructor, the author of an award winning open access statistics textbook, and make course materials publicly available in a variety of formats (e.g., [**youtube.com/daniellenavarro77**](https://www.youtube.com/daniellenavarro77)). I've run summer schools aimed at teaching statistical programming in R to social scientists ([**chdsummerschool.com**](https://chdsummerschool.com/)), and have experience teaching large and small groups. 
 
-- successful grant funding, part of CoE 
-- ran research group, lots of academic output
+In addition to university and summer school teaching, I have been privileged to be an advisor for approximately 40 graduate and honours (advanced undergraduate) students, with very broad range of interests and backgrounds: has included mathematicians, computer scientists, psychologists, statisticians and more. Some are coding experts, others are novices: I am always prepared to meet people where they are, at any stage in their journey. I am endlessly passionate about and experienced in helping them to their next stage, whatever that may be. The happiest moments in my career have been those when my former students have taken on academic positions of their own, won awards for work that I advised on, or simply achieved something they otherwise would not have thought possible.
 
+My experience has been that this work requires teamwork, strong interpersonal skills, and the ability to listen to others with empathy, even when they disagree with me in heated terms. My previous leadership roles on academic committees, formal leadership training, and experience running a research group have all helped me develop these skills, as one might expect. Perhaps less obviously, my life as a parent has taught me a lot about patience, living with ambiguity, and the nature of conflict and diplomacy.
 
-# Leadership in scientific communities
+# Project management and team building
 
-- editorial roles
-- RLadies Sydney
-- conference organisation
-- broad perspective on data science, statistics and scientific process (devil, aarhus talk)
+Across my academic career I have managed a team of researchers that I have funded through national competitive grants and private research contracts (8 major grants totalling $3 million, and many smaller contract). Securing this funding requires the ability to develop and implement complex research plans spanning multiple years and coordinating the activities of a team of disparate researchers, blending goals from different team members, incorporating different research cultures, and so on. 
+
+In terms of larger projects, I have twice been involved in "Centre of Excellence" bids, once as a senior named investigator. These bids are larger scale grants worth tens of millions of dollars over several years. Organising an application is a complex process that requires the co-ordination of multiple universities, companies and government departments. Dozens of academics are typically involved, research agreements are required, and governance structures need to be designed before a bid can be considered. Although we were ultimately unsuccessful in securing that funding, we reached the final stage in both instances, and the experience taught me a lot about the importance of oversight, governance, and developing organisational structures suited to the context.
+
+# Diversity and inclusion
+
+Perhaps unsurprisingly, diversity and inclusion is a subject dear to my heart as a transgender woman in academia. During my career I've taken on administrative roles within equity committees, spoken on panels about LGBTIQ inclusion, and at times been a public advocate for transgender inclusion. I cofounded the Sydney R-Ladies chapter ([**rladiessydney.org**](https://rladiessydney.org/)), and have authored papers articulating a vision for what a truly open and inclusive psychology might look like ([**psyarxiv.com/gdzue**](https://psyarxiv.com/gdzue)). Though this work is difficult and often requires me to confront my own fears and shortcomings, it is incredibly rewarding.
+
+Part of my drive to do this work stems from my own hope to see a better world: I view diversity and inclusion as an inherent good, to be valued for its own sake. When an organisation omits or ignores the perspectives of marginalised populations it inevitably perpetuates and perhaps exacerbates existing problems. Being transgender, I often notice hidden assumptions and dangers that other people might not. Being white, I often fail to notice problems that are easily detected by people of colour. Diversity helps an organisation avoid these mistakes, and in doing so contribute more effectively to the public good. 
+
+# Breadth of perspective
+
+A characteristic to how I work is not simply to aim for rigour in what I do, but also to take a broad perspective on science, statistics and how systems operate. This is reflected in academic writing and talks I have given about the nature of science, statistics and inference ([**youtu.be/tNkmsAOn7aU**](https://youtu.be/tNkmsAOn7aU)), for instance. It is also something that has afforded me the opportunity to take on my current editorial roles at one of the top journals in all of science ([**Science**](https://www.sciencemag.org/)) as well as the top theoretical journal in my field ([**Psychological Review**](https://www.apa.org/pubs/journals/rev/)). As a consequence of this editorial work, I have been able to appreciate a wide variety of different scientific perspectives, methods and concepts. This skill is something I hope to bring to any future work I engage in.
+
 
 
 <!-- # Education -->
