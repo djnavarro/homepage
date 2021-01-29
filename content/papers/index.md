@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 172e8749156c5a66
+rmd_hash: 4c2eddf3b7224678
 
 ---
 
@@ -31,8 +31,8 @@ Accepted manuscripts
 --------------------
 
 -   Navarro, D. J. (2020). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory)\]
--   Hotaling, J. M., Navarro, D. J. & Newell, B. R. (2020). Skilled bandits: Learning to choose in a reactive world. *Journal of Experimental Psychology: Learning, Memory and Cognition.* Accepted 24 Sep 2020
--   De Deyne, S., Navarro, D. J., Collell, G. & Perfors, A. (2020). Visual and affective grounding in language and mind. *Cognitive Science.* Accepted 11 Nov 2020
+-   Hotaling, J. M., Navarro, D. J. & Newell, B. R. (2020). Skilled bandits: Learning to choose in a reactive world. *Journal of Experimental Psychology: Learning, Memory and Cognition.* Accepted 24 Sep 2020. \[[psyarxiv](https://psyarxiv.com/ghmdx/), [doi](https://doi.org/10.1037/xlm0000981)\]
+-   De Deyne, S., Navarro, D. J., Collell, G. & Perfors, A. (2020). Visual and affective grounding in language and mind. *Cognitive Science.* Accepted 11 Nov 2020. \[[psyarxiv](https://psyarxiv.com/q97f8), [doi](https://doi.org/10.1111/cogs.12922)\]
 -   Walker, A. R., Navarro, D. J., Newell, B. R. & Beesley, T. (2020). Protection from uncertainty in the exploration/exploitation trade-off. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Accepted 19 Nov 2020 \[[psyarxiv](https://psyarxiv.com/5y643)\]
 
 Preprints, manuscripts, etc
