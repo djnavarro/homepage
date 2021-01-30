@@ -12,6 +12,11 @@ date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
 ---
 
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
@@ -29,13 +34,13 @@ On the side, I make generative art in R ([**art.djnavarro.net**](https://art.djn
 
 My code is written mostly in R, with a light sprinkle of C++ when speed is necessary. For web programming I rely on javascript HTML and CSS, focusing on libraries such as jsPsych designed specifically for my use case, and use plumber and Shiny at times when I need web applications to rely on R code. I make extensive use of Hugo and associated literate programming tools in R (blogdown, hugodown, rmarkdown etc), and have experience writing Hugo themes. I have previous experience with Matlab/Octave, and familiarity with Python.
 
-In both my academic day job and my art, I find it useful to write R packages. I've written several packages (as an example, see [**jaysire.djnavarro.net**](https://jaysire.djnavarro.net/)) and in doing so have become skilled in using standard developer tools (usethis, testthat, pkgdown etc), and am comfortable working with git/GitHub and associated R tools (gert, git2r, etc). 
+In my academic day job and my art, I find it useful to write R packages. I've written several packages (as an example, see [**jaysire.djnavarro.net**](https://jaysire.djnavarro.net/)) and in doing so have become skilled in using standard developer tools (usethis, testthat, pkgdown etc). I am comfortable working with git/GitHub and associated R tools (gert, git2r, etc). 
 
-In addition to my software development work, my scientific work requires me to engage in data wrangling, analysis, visualisation and statistical modelling on an everyday basis. For most everyday data cleaning, analysis and visualisation tasks I use tidyverse extensively. For modelling work, my workflow is a little more varied: I have some experience using tidymodels tools, but for the most part my workflow is based around using JAGS and Stan to implement Bayesian data analyses. As a method of last resort, in cases where the inference task requires a highly specific model that is not amenable to standard tools, I have implemented my own custom models.
+In addition to software development, my scientific work requires me to engage in data wrangling, analysis, visualisation and statistical modelling on an everyday basis. For most everyday data cleaning, analysis and visualisation tasks I use tidyverse extensively. For modelling work, my workflow is a little more varied: I have some experience using tidymodels tools, but for the most part my workflow is based around using JAGS and Stan to implement Bayesian data analyses. As a method of last resort, in cases where the inference task requires a highly specific model that is not amenable to standard tools, I have implemented my own custom models.
 
 # Reporting and communication
 
-Most of my written communication takes the form of technical papers in academic journals. Across my career I have written approximately 150 academic papers ([**scholar.djnavarro.net**](http://scholar.djnavarro.net)), and in the course of writing them I have become an accomplished technical writer. My favourite example is a brief paper, *"Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection"* ([**psyarxiv.com/39q8y**](https://psyarxiv.com/39q8y/)). The paper has a strong authorial voice, takes a broad perspective on a difficult problem, and uses technical concepts (e.g., large sample behaviour of the Bayes factor when all models are wrong) while remaining accessible to a broad audience. 
+As an academic, most of my reports are written as papers in technical journals. Across my career I have written approximately 150 academic papers ([**scholar.djnavarro.net**](http://scholar.djnavarro.net)), and in the course of writing them I have become an accomplished technical writer. My favourite example is a brief paper, *"Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection"* ([**psyarxiv.com/39q8y**](https://psyarxiv.com/39q8y/)). The paper has a strong authorial voice, takes a broad perspective on a difficult problem, and uses technical concepts (e.g., large sample behaviour of the Bayes factor when all models are wrong) while remaining accessible to a broad audience. 
 
 One aspect to my communiction of which I am especially proud is the ability to adapt my writing style to context. For example, I have written technical books for a broader audience, most notably  [**learningstatisticswithr.com**](https://learningstatisticswithr.com), which is highly regarded for its prose, clarity and humour. In contrast, my contributions to the forthcoming 3rd edition of the ggplot2 book adopt the "house style" which favours brevity as well as clarity. 
 
