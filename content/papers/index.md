@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 4c2eddf3b7224678
+rmd_hash: 964eed97a430d405
 
 ---
 
@@ -45,7 +45,7 @@ Preprints, manuscripts, etc
 -   Kemp, C., Navarro, D. J. & Hayes, B. (submitted). Adjustment for selection bias in intuitive reasoning. *Manuscript under revision*
 -   Ledgerwood, A. et al. (2020). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/gdzue)\]
 -   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (submitted). Confidence regulates feedback processing during human probabilistic learning. *Manuscript under review*
--   Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (in preparation). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Manuscript in preparation*
+-   Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (submitted). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/nefpz/)\]
 
 2020
 ----
