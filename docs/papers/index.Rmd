@@ -32,6 +32,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
   - De Deyne, S., Navarro, D. J., Collell, G. & Perfors, A. (2020).  Visual and affective grounding in language and mind. *Cognitive Science.* Accepted 11 Nov 2020. [[psyarxiv](https://psyarxiv.com/q97f8), [doi](https://doi.org/10.1111/cogs.12922)]
   - Walker, A. R., Navarro, D. J., Newell, B. R. & Beesley, T. (2020). Protection from uncertainty in the exploration/exploitation trade-off. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Accepted 19 Nov 2020 [[psyarxiv](https://psyarxiv.com/5y643)]
 
+
 ## Preprints, manuscripts, etc
 
   - Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D. J., & Sarnecka, B. W. (2019). The exploration advantage: Children’s instinct to explore allows them to find information that adults miss. [[psyarxiv](https://doi.org/10.31234/osf.io/h437v), [osf](https://osf.io/4rzsa/)]

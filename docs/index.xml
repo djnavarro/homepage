@@ -67,8 +67,8 @@
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description>Teaching Materials Data Science with R: A Robust Toolkit for Psychological Research 
-The research toolkit in psychological science has changed a lot in the last decade. Across many areas there is a heightened emphasis on transparency, open access, and a preference for the use of freely available tools. These skills are rarely taught during undergraduate psychology classes, and because research methods classes tend to be statistics heavy, they&amp;rsquo;re rarely a part of research methodology classes either.</description>
+      <description>Teaching Materials An Introduction to Data Visualisation in R 
+Data visualisation is a fundamental research task that is necessary in almost every field of scientific work. The human visual system is a powerful information processing tool, and in practice scientists rely heavily on figures and graphs to make sense of data they have collected. In this class I&amp;rsquo;ll provide an introduction to data visualisation using the R statistical programming language.</description>
     </item>
     
     <item>

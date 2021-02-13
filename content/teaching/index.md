@@ -6,12 +6,19 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: cf7405aa5285e61e
+rmd_hash: 2244f0ec00e2ca69
 
 ---
 
 Teaching Materials
 ==================
+
+An Introduction to Data Visualisation in R
+------------------------------------------
+
+<a href="https://data-vis-2021.djnavarro.net"><img width = "100%" src="/teaching/teaching-datavis-2021.png" alt=""></a>
+
+Data visualisation is a fundamental research task that is necessary in almost every field of scientific work. The human visual system is a powerful information processing tool, and in practice scientists rely heavily on figures and graphs to make sense of data they have collected. In this class I'll provide an introduction to data visualisation using the R statistical programming language. No prior knowledge of R is assumed. The class has two parts: the first half will be led by the instructor and based around formal teaching. The second half is self directed, with some input from the instructor. By the end of the class you should have the ability to take a messy data set and produce an elegant, production ready visualisation that cleanly illustrates what the data are saying. <a href="https://data-vis-2021.djnavarro.net/" class="uri">https://data-vis-2021.djnavarro.net/</a>
 
 Data Science with R: A Robust Toolkit for Psychological Research
 ----------------------------------------------------------------
